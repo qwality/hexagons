@@ -1,8 +1,3 @@
-toto mel byt zaklad pro hru kterou jsem chtel stvorit,
-nicmene jsem dosel pouze k tomu ze jsem vytvoril funkci hex-grid
-bohuzel jsem zjistil ze v takovem scalu v jakem jsem to zamyslel (100 000 000) hexagonu
-by to nebylo proveditelne, vyzkousel jsem spoustu alternativ jak hexagony vykreslovat,
-ale kdybych aplikoval vse na co jsem prisel, tak uz z toho neni jednoduchy projekt,
-proto s timto projektem prozatim koncim a jdu se venovat dalsim vecem
+Tento projekt měl být základem pro hru, kterou jsem chtěl vytvořit. Dokázal jsem vytvořit funkci hex-grid, ale zjistil jsem, že v požadovaném měřítku (100 milionů hexagonů) by to nebylo proveditelné. Vyzkoušel jsem několik alternativních způsobů vykreslování hexagonů, ale žádný z nich nebyl dostatečně efektivní. Proto jsem se rozhodl projekt prozatím ukončit a věnovat se jiným věcem.
 
 ![screenshot](screenshot.png)
